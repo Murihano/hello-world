@@ -1,2 +1,2 @@
 # hello-world
-Just my first repertory
+Just my first repository
